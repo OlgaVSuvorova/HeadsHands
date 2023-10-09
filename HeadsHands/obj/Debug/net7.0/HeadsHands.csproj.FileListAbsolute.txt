@@ -1,0 +1,14 @@
+C:\Olga\Programming\HeadsHands\HeadsHands\bin\Debug\net7.0\HeadsHands.exe
+C:\Olga\Programming\HeadsHands\HeadsHands\bin\Debug\net7.0\HeadsHands.deps.json
+C:\Olga\Programming\HeadsHands\HeadsHands\bin\Debug\net7.0\HeadsHands.runtimeconfig.json
+C:\Olga\Programming\HeadsHands\HeadsHands\bin\Debug\net7.0\HeadsHands.dll
+C:\Olga\Programming\HeadsHands\HeadsHands\bin\Debug\net7.0\HeadsHands.pdb
+C:\Olga\Programming\HeadsHands\HeadsHands\obj\Debug\net7.0\HeadsHands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Olga\Programming\HeadsHands\HeadsHands\obj\Debug\net7.0\HeadsHands.AssemblyInfoInputs.cache
+C:\Olga\Programming\HeadsHands\HeadsHands\obj\Debug\net7.0\HeadsHands.AssemblyInfo.cs
+C:\Olga\Programming\HeadsHands\HeadsHands\obj\Debug\net7.0\HeadsHands.csproj.CoreCompileInputs.cache
+C:\Olga\Programming\HeadsHands\HeadsHands\obj\Debug\net7.0\HeadsHands.dll
+C:\Olga\Programming\HeadsHands\HeadsHands\obj\Debug\net7.0\refint\HeadsHands.dll
+C:\Olga\Programming\HeadsHands\HeadsHands\obj\Debug\net7.0\HeadsHands.pdb
+C:\Olga\Programming\HeadsHands\HeadsHands\obj\Debug\net7.0\HeadsHands.genruntimeconfig.cache
+C:\Olga\Programming\HeadsHands\HeadsHands\obj\Debug\net7.0\ref\HeadsHands.dll
