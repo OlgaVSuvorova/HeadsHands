@@ -6,7 +6,7 @@ public class Game
 {
     public void Run()
     {
-        Console.WriteLine("Game started started");
+        Console.WriteLine("Game started started end");
 
         List<Entity> monsters = new ();
         List<Entity> gamers = new();
