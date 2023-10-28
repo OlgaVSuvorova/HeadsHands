@@ -18,7 +18,7 @@ public class Game
         gamers.Add(new Gamer());
         gamers.Add(new SuperGamer());
 
-        Console.WriteLine("Gamers:" + gamers.Count + " Monsters:" + monsters.Count);
+        Console.WriteLine("Gamers2:" + gamers.Count + " Monsters:" + monsters.Count);
 
         while ((gamers.Count > 0) & (monsters.Count > 0))
         {
